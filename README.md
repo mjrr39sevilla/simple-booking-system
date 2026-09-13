@@ -1,24 +1,24 @@
-# Simple Booking System
+# Clínica Dental Sonrisa — Web con gestión de citas
 
-Una web de [EJ: UNA GESTIÓN DE CITAS DE DENTISTA, UNA WEB DE RESERVAS]
+Web de clínica dental con reserva de citas online, área privada para pacientes y panel de administración para la agenda.
 
-This project was built with [Lovable](https://lovable.dev).
+Este proyecto se ha creado con [Lovable](https://lovable.dev).
 
-## Build with Lovable
+## Desarrolla con Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/d979dc05-1f2a-40c7-8c16-7e1d703f04d2).
+Continúa desarrollando este proyecto en el [editor de Lovable](https://lovable.dev/projects/d979dc05-1f2a-40c7-8c16-7e1d703f04d2).
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- **Construye más rápido**: describe lo que quieres y Lovable se encarga del código.
+- **Mantente sincronizado**: cada cambio en Lovable se guarda directamente en este repositorio.
+- **Propiedad total**: este código es tuyo. Súbelo a `main` en GitHub y se sincronizará de vuelta con Lovable para que sigas editándolo.
 
-## Development
+## Desarrollo local
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+¿Prefieres trabajar en local? Necesitas Node.js y npm — [instálalos con nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
+git clone <url-de-este-repositorio>
+cd <nombre-del-repositorio>
 npm i
 npm run dev
 ```
